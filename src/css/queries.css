@@ -7,8 +7,16 @@
   }
 
   .h1-title {
-    font-size: 4rem;
-    color: #a61e4d;
+    font-size: 3.6rem;
+  }
+
+  .h2-title {
+    font-size: 3.2rem;
+  }
+
+  .story-telling,
+  .myproject-description {
+    font-size: 2rem;
   }
 
   .icons-container {
