@@ -81,11 +81,17 @@ hr {
   border: 8px solid #444;
 }
 
+.personal-icon {
+  width: 240px;
+  height: auto;
+}
+
 .aboutme-container {
   padding: 1.8rem;
   margin-top: 9.6rem;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 1.8rem;
 }
 
@@ -118,6 +124,10 @@ hr {
   margin-top: 6.4rem;
   text-align: center;
   padding: 1.8rem;
+}
+
+.rocket-icon {
+  width: 64px;
 }
 
 .myprojects-thumbnail {
